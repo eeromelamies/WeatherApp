@@ -19,3 +19,8 @@ Palvelimet vastaavat yleens채 JSON-muodossa, joka on vain pitk채 p채tk채 teksti�
 ## Miten API-key on tallennettu
 
 Sovelluksen API-avain on tallennettu projektin juuren local.properties-tiedostoon. T채m채 tiedosto on lis채tty .gitignore-listalle.
+
+---
+
+<img width="159" height="336" alt="image" src="https://github.com/user-attachments/assets/7e7d2638-c7d4-4328-857f-c7392d7234d7" />
+
